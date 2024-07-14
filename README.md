@@ -20,7 +20,7 @@
 
 1.  安装配置[Python3.8-32位](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe)环境；
 2. 运行输入： _%APPDATA%_ 
-，创建pip目录，新建 _pip.ini_ 文件，内容如下
+，创建 _pip_ 目录，新建 _pip.ini_ 文件，内容如下
 ```
 [global]
 index-url = https://mirrors.aliyun.com/pypi/simple/
