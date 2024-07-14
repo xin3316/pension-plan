@@ -28,9 +28,17 @@ trusted-host= mirrors.aliyun.com
 ```
 
 3.  更新pip
-- `> pip install --upgrade pip`
+
+```
+> pip install --upgrade pip
+```
+
 4.  安装模块
-- `> pip install easyquotation easyutils tushare pandas pywinauto`
+
+```
+> pip install easyquotation easyutils tushare pandas pywinauto
+```
+
 
 #### 使用说明
 
