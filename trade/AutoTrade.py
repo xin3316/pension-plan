@@ -7,6 +7,10 @@ import loginYH
 def loop_process(trade):
     while TradeTime.if_trade_time():
         pass
+    trade.connect()
+    data = trade.get_balance()
+    print("result: {}",data)
+    print("程序结束")
 
 
 def main():

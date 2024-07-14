@@ -1,5 +1,5 @@
 class CommonConfig:
-    DEFAULT_EXE_PATH = "D:\\weituo\\xiadan.exe"
+    DEFAULT_EXE_PATH = 'C:/同花顺软件/同花顺/xiadan.exe'
     DEFAULT_OLD_BALANCE_PATH = "D:\\fileNeed\\table.xls"
     DEFAULT_OLD_POSITION_PATH = "D:\\fileNeed\\table.xls"
     DEFAULT_BALANCE_PATH = "D:\\fileNeed\\balance.csv"
