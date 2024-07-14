@@ -8,8 +8,8 @@
 4. AI人工智能选股
 
 #### 软件环境
-- [pycharm2024.1.4](https://download.jetbrains.com.cn/python/pycharm-professional-2024.1.4.exe) 官网下载地址：[https://download.jetbrains.com.cn/python/pycharm-professional-2024.1.4.exe](https://download.jetbrains.com.cn/python/pycharm-professional-2024.1.4.exe)
-- [Python3.8-32位](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) 官网下载地址：[https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe)
+- [ _pycharm2024.1.4_ ](https://download.jetbrains.com.cn/python/pycharm-professional-2024.1.4.exe) 官网下载地址：[https://download.jetbrains.com.cn/python/pycharm-professional-2024.1.4.exe](https://download.jetbrains.com.cn/python/pycharm-professional-2024.1.4.exe)
+- [ _Python3.8-32位_ ](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) 官网下载地址：[https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe)
 
 #### 软件架构
 软件架构说明
@@ -19,7 +19,7 @@
 
 #### 安装教程
 
-1.  安装配置[Python3.8-32位](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe)环境；
+1. 下载源码，使用 _PyCharm_ 打开项目；
 2. 运行输入： _%APPDATA%_ 
 ，创建 _pip_ 目录，新建 _pip.ini_ 文件，内容如下
 ```
