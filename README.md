@@ -7,7 +7,8 @@
 3. 选股策略：微信名家+多种软件优选策略，重点突出
 4. AI人工智能选股
 
-
+#### 软件环境
+[Python3.8-32位](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) 官网下载地址：[https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe)
 
 #### 软件架构
 软件架构说明
