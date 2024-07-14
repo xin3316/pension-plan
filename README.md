@@ -19,9 +19,17 @@
 #### 安装教程
 
 1.  安装配置[Python3.8-32位](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe)环境；
-2.  更新pip
+2. 运行输入：%APPDATA%，创建pip目录，新建pip.ini文件，内容如下
+```
+[global]
+index-url = https://mirrors.aliyun.com/pypi/simple/
+[install]
+trusted-host= mirrors.aliyun.com
+```
+
+3.  更新pip
 - `> pip install --upgrade pip`
-3.  安装模块
+4.  安装模块
 - `> pip install easyquotation easyutils tushare pandas pywinauto`
 
 #### 使用说明
