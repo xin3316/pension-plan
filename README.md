@@ -11,7 +11,7 @@
 
 #### 软件架构
 软件架构说明
-数据使用Ashare https://github.com/mpquant/Ashare
+- 1. 数据使用Ashare https://github.com/mpquant/Ashare
 
 
 #### 安装教程
