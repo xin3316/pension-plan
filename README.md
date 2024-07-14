@@ -11,7 +11,8 @@
 
 #### 软件架构
 软件架构说明
-- 1. 数据使用Ashare https://github.com/mpquant/Ashare
+- 1. 数据接口Ashare https://github.com/mpquant/Ashare
+- 2. 数据策略分析pytdx https://gitee.com/better319/pytdx
 
 
 #### 安装教程
