@@ -8,12 +8,12 @@
 4. AI人工智能选股
 
 #### 软件环境
-[Python3.8-32位](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) 官网下载地址：[https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe)
+- [Python3.8-32位](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) 官网下载地址：[https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe)
 
 #### 软件架构
 软件架构说明
-- 1. [数据接口Ashare](https://github.com/mpquant/Ashare) 
-- 2. [数据策略分析pytdx](https://gitee.com/better319/pytdx) 
+- [数据接口Ashare](https://github.com/mpquant/Ashare) 
+- [数据策略分析pytdx](https://gitee.com/better319/pytdx) 
 
 
 #### 安装教程
