@@ -78,7 +78,7 @@ Python.exe run.py
 Python.exe trade/AutoTrade.py
 ```
 #### 参考项目
-- 阿布量化[[需要Python版本 3.6.8]](https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe) https://github.com/maxmon/abu_ml 
+- 阿布量化[[需要Python3.6.8]](https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe) https://github.com/maxmon/abu_ml 
 
 
 #### 参与贡献
