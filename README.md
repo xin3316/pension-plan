@@ -27,7 +27,6 @@
 
 #### 目录结构
 
-
 ```
   |-- model 策略模型
   |-- trade 交易
@@ -78,6 +77,8 @@ Python.exe run.py
 ```
 Python.exe trade/AutoTrade.py
 ```
+#### 参考项目
+- 阿布量化 https://github.com/maxmon/abu_ml
 
 #### 参与贡献
 
