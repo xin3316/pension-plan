@@ -54,6 +54,10 @@ pip install easyquotation easyutils tushare pandas pywinauto pytdx
 #### 使用说明
 
 1.  策略测试
+```
+待完善
+```
+
 2.  个人交易服务开启
 
 ```
