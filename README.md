@@ -54,7 +54,7 @@ Python.exe run.py
 3.  个人交易策略监测和自动下单
 
 ```
-Python.exe auto_trade.py
+Python.exe trade/AutoTrade.py
 ```
 
 #### 参与贡献
