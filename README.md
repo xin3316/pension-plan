@@ -1,6 +1,6 @@
 # 退休金计划 - 个人开源自动化交易项目
 
-
+- Gitee主库：https://gitee.com/xin3316/pension-plan
 - Github镜像同步开发中，欢迎大家参与共创开发 镜像地址：https://github.com/xin3316/pension-plan
 - QQ群：41372623 
 
