@@ -22,8 +22,8 @@
 
 #### 软件架构
 软件架构说明
-- [Ashare](https://github.com/mpquant/Ashare) 行情数据接口
-- [pytdx](https://gitee.com/better319/pytdx) 支持通达信、同花顺公式选股
+- [ **Ashare** ](https://github.com/mpquant/Ashare) 行情数据接口
+- [ **pytdx** ](https://gitee.com/better319/pytdx) 支持通达信、同花顺公式选股
 
 
 #### 安装教程
