@@ -68,4 +68,4 @@ Python.exe trade/AutoTrade.py
 4.  新建 Pull Request
 
 QQ群：41372623
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240715185739.jpg)
+![输入图片说明](微信群.jpg)
