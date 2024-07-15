@@ -29,10 +29,10 @@
 
 
 ```
-:fa-folder-o: model 策略模型
-:fa-folder-o: trade 交易
-:fa-folder-o: chance 机会
-:fa-folder-o: price 行情
+--- model 策略模型
+  |-- trade 交易
+  |-- chance 机会
+  |-- price 行情
 ```
 
 
