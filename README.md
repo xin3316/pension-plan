@@ -5,7 +5,7 @@
 1. 个性化交易策略：自动根据网络新闻梳理热点
 2. 自动化交易：模拟交易测试收益率
 3. 选股策略：多种软件优选策略，重点突出人性化选股，以及AI智能选股，支持多种策略接入的能力。因为A股风格变化太快，希望通过更加灵活的选股策略来抵消风险，提高收益率。
-4. AI人工智能选股
+4. 选股范围：AI人工智能选股
 
 #### 软件环境
 - [ _pycharm2024.1.4_ ](https://download.jetbrains.com.cn/python/pycharm-professional-2024.1.4.exe) 官网下载地址：[https://download.jetbrains.com.cn/python/pycharm-professional-2024.1.4.exe](https://download.jetbrains.com.cn/python/pycharm-professional-2024.1.4.exe)
