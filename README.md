@@ -25,7 +25,11 @@
 - [ **Ashare** ](https://github.com/mpquant/Ashare) 行情数据接口
 - [ **pytdx** ](https://gitee.com/better319/pytdx) 支持通达信、同花顺公式选股
 
-
+#### 目录结构
+ :fa-folder-o: model 策略模型
+ :fa-folder-o: trade 交易
+ :fa-folder-o: 
+ :fa-folder-o: 
 #### 安装教程
 
 1. 下载源码，使用 _PyCharm_ 打开项目；
