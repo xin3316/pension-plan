@@ -7,7 +7,7 @@
 2. 自动化交易：模拟交易测试收益率
 3. 选股策略：多种软件优选策略，重点突出人性化选股，以及AI智能选股，支持多种策略接入的能力。因为A股风格变化太快，希望通过更加灵活的选股策略来抵消风险，提高收益率。
 4. 选股范围：AI人工智能选股
-
+5. 开源分支计划：计划以A股、港股ETF(T+0)、美股ETF(T+0)、A股正股/可转债（T+0）共振。
 #### 软件环境
 - [ _pycharm2024.1.4_ ](https://download.jetbrains.com.cn/python/pycharm-professional-2024.1.4.exe) 官网下载地址：[https://download.jetbrains.com.cn/python/pycharm-professional-2024.1.4.exe](https://download.jetbrains.com.cn/python/pycharm-professional-2024.1.4.exe)
 - [ _Python3.8-32位_ ](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) 官网下载地址：[https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe)
