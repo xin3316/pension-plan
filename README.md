@@ -45,9 +45,14 @@ pip install easyquotation easyutils tushare pandas pywinauto
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  策略测试
+2.  个人交易服务开启
+
+```
+Python.exe run.py
+```
+3.  个人交易策略监测和自动下单
+`Python.exe auto_trade.py`
 
 #### 参与贡献
 
