@@ -29,7 +29,7 @@
 
 
 ```
-  |--  model 策略模型
+  |-- model 策略模型
   |-- trade 交易
   |-- chance 机会
   |-- price 行情
