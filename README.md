@@ -41,7 +41,7 @@ trusted-host= mirrors.aliyun.com
 3.  更新pip
 
 ```
-pip install --upgrade pip
+python.exe -m pip install --upgrade pip
 ```
 
 4.  安装模块
