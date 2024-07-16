@@ -9,7 +9,7 @@ import easyquotation as eq
 
 
 class ClientTrade:
-    def __init__(self,ts_code):
+    def __init__(self, ts_code):
         self.code = ts_code
         self._app = None
         self._main = None
@@ -78,17 +78,15 @@ class ClientTrade:
         获取可用资金
         :return: 今天的可以用的资金 float
         """
-        self._main.child_window(
-            control_id=129, class_name="SysTreeView32").get_item(["查询[F4]", "资金股份"]).click()
-        self._main.child_window(
-            control_id=1308,class_name="CVirtualGridCtrl").type_keys("^S")
+        self._main.child_window(control_id=129, class_name="SysTreeView32").get_item(["查询[F4]", "资金股份"]).click()
+        self._main.child_window(control_id=1308, class_name="CVirtualGridCtrl").type_keys("^S")
         while self.is_exist_pop_dialog():
             try:
                 self._app.top_window()["保存（S）"].click() or self._app.top_window()["是(Y)"].click()
             except Exception as e:
                 pass
         if self._xls2csv("balance"):
-            df = pd.read_csv(CommonConfig.DEFAULT_BALANCE_PATH,encoding='gbk',sep='\t')
+            df = pd.read_csv(CommonConfig.DEFAULT_BALANCE_PATH, encoding='gbk', sep='\t')
             self.balance = float(df.loc[0, ['可用金额']])
         return self.balance
 
@@ -108,7 +106,7 @@ class ClientTrade:
             except Exception as e:
                 pass
         if self._xls2csv("position"):
-            self.all_etf_position = pd.read_csv(CommonConfig.DEFAULT_POSIION_PATH,encoding='gbk',sep='\t')
+            self.all_etf_position = pd.read_csv(CommonConfig.DEFAULT_POSIION_PATH, encoding='gbk', sep='\t')
         return self.all_etf_position
 
     def get_position(self):
@@ -129,7 +127,7 @@ class ClientTrade:
         self._main.child_window(
             control_id=129, class_name="SysTreeView32").get_item(["买入[F1]"]).click()
         self._main.child_window(
-            control_id=1032,class_name="Edit").type_keys(self.code)
+            control_id=1032, class_name="Edit").type_keys(self.code)
         self._main.child_window(
             control_id=1033, class_name="Edit").type_keys(self.price)
         self._main.child_window(
@@ -142,7 +140,7 @@ class ClientTrade:
                 self._app.top_window()["是"].click()
             if i == 1 and self.is_exist_pop_dialog():
                 self.message = self._app.top_window().child_window(
-                    control_id=1004,class_name="Static").window_text()
+                    control_id=1004, class_name="Static").window_text()
                 self._app.top_window()["确定"].click()
 
     def trade_sell(self):
@@ -193,5 +191,3 @@ class ClientTrade:
                     control_id=6, class_name="Button").click()
             except Exception as e:
                 self._app.top_window()["确定"].click()
-
-
